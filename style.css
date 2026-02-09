@@ -10,6 +10,8 @@ body {
     color: black;
     line-height: 1.6;
     text-align: center;
+    
+    
 }
 
 header {
@@ -32,7 +34,7 @@ nav button {
 
 
 section {
-    padding: 15rem;
+    padding: 16rem;
     max-width: 900px;
     margin: auto;
 }
@@ -166,3 +168,5 @@ p {
   display: inline-block;
   align-content: center;
 }
+
+

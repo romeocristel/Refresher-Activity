@@ -1,10 +1,10 @@
-// Dark Mode Toggle
+// Dark Mode
 const toggleButton = document.getElementById("toggleThemes");
 toggleButton.addEventListener("click", () => {
   document.body.classList.toggle("dark");
 });
 
-// Simple Form Validation
+//Form Validation
 const form = document.getElementById("contactForm");
 const formMessage = document.getElementById("formMessage");
 
