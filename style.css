@@ -131,7 +131,7 @@ nav {
 nav ul {
   display: flex;
   list-style: none;
-  gap: 1rem;
+  gap: 2rem;
   
 }
 
@@ -156,4 +156,13 @@ p {
 
 #education {
     font-size: 19px;
+}
+
+#projects p {
+  height: 150px;
+  width: 40%;
+  border-radius: 20px;
+  background-color: #777373;
+  display: inline-block;
+  align-content: center;
 }
